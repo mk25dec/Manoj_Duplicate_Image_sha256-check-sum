@@ -1,0 +1,1 @@
+docker run --rm -p 8501:8501 -v "/Users/manoj/coding/scripts/test:/Users/manoj/coding/scripts/test" ghcr.io/mk25dec/duplicate-finder:latest

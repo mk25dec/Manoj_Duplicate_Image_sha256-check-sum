@@ -1,0 +1,7 @@
+streamlit
+pyperclip
+PyMuPDF
+streamlit-modal
+Pillow
+psutil
+streamlit-copy-to-clipboard
